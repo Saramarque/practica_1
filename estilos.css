@@ -1,0 +1,25 @@
+*{
+   padding: 0px;
+   margin: 0px;
+}
+#verde{ background-color:green;}
+#rojo{background-color: red;}
+#escudo{ width:65%; height:35%;}
+.blanco
+{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    width:30px;
+}
+
+.flex-container
+{
+    display: flex;
+    align-items:stretch;
+    background-color:blueviolet;
+    width:100%;
+    height:700px;
+}
+
